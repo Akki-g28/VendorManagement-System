@@ -1,5 +1,5 @@
 #📋 VendorManagement System
-
+==========================================================================================================================
 ## 📜Project Description
 
 The VendorManagement System is a decentralized smart contract built on the Stacks blockchain using Clarity. This system provides a comprehensive solution for supplier onboarding and performance tracking with automated contract compliance monitoring. The platform enables organizations to maintain transparent, immutable records of vendor relationships, track performance metrics, and automatically assess compliance based on delivery performance and quality scores.
