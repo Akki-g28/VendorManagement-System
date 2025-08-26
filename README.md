@@ -1,6 +1,6 @@
-# VendorManagement System
+#📋 VendorManagement System
 
-## Project Description
+## 📜Project Description
 
 The VendorManagement System is a decentralized smart contract built on the Stacks blockchain using Clarity. This system provides a comprehensive solution for supplier onboarding and performance tracking with automated contract compliance monitoring. The platform enables organizations to maintain transparent, immutable records of vendor relationships, track performance metrics, and automatically assess compliance based on delivery performance and quality scores.
 
@@ -11,7 +11,7 @@ Key features include:
 - Transparent and immutable vendor relationship records
 - Decentralized vendor management without intermediaries
 
-## Project Vision
+## 🔭Project Vision
 
 Our vision is to revolutionize vendor management by creating a trustless, transparent, and efficient ecosystem where:
 
@@ -27,7 +27,7 @@ Our vision is to revolutionize vendor management by creating a trustless, transp
 
 - **Scalability**: The decentralized nature of the system allows it to scale globally without geographical or institutional barriers.
 
-## Future Scope
+## 🚀Future Scope
 
 The VendorManagement System is designed with extensibility in mind. Future enhancements and expansions include:
 
@@ -61,7 +61,7 @@ The VendorManagement System is designed with extensibility in mind. Future enhan
 - **Social Impact Scoring**: Evaluate vendors based on social responsibility and community impact
 - **Interoperability Standards**: Establish industry standards for decentralized vendor management
 
-## Contract Address Details
+## 📄Contract Address Details
 
 Contract ID : ST1VE91Q9XQWN3P4ERRX4C1191YWXRX4R0PD1WR7Y.VendorManagementSystem
 <img width="1902" height="914" alt="Screenshot 2025-08-26 121656" src="https://github.com/user-attachments/assets/5f828fe2-b0c4-498a-a813-668dd40eca9b" />
