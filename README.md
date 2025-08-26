@@ -1,4 +1,4 @@
-#📋 VendorManagement System
+📋 VendorManagement System
 ==========================================================================================================================
 ## 📜Project Description
 
@@ -64,6 +64,8 @@ The VendorManagement System is designed with extensibility in mind. Future enhan
 ## 📄Contract Address Details
 
 Contract ID : ST1VE91Q9XQWN3P4ERRX4C1191YWXRX4R0PD1WR7Y.VendorManagementSystem
+
+
 <img width="1902" height="914" alt="Screenshot 2025-08-26 121656" src="https://github.com/user-attachments/assets/5f828fe2-b0c4-498a-a813-668dd40eca9b" />
 
 #### Public Functions
@@ -77,7 +79,7 @@ Contract ID : ST1VE91Q9XQWN3P4ERRX4C1191YWXRX4R0PD1WR7Y.VendorManagementSystem
 - **is-vendor-compliant**: Check vendor compliance status
 - **get-vendor-performance**: Get vendor performance summary
 
-### Getting Started
+### 🔑Getting Started
 
 1. **Deploy Contract**: Deploy the VendorManagement contract to the Stacks blockchain
 2. **Initialize**: The deploying address becomes the contract owner
@@ -85,7 +87,7 @@ Contract ID : ST1VE91Q9XQWN3P4ERRX4C1191YWXRX4R0PD1WR7Y.VendorManagementSystem
 4. **Track Performance**: Use `update-performance-and-compliance` to monitor vendor performance
 5. **Query Data**: Use read-only functions to retrieve vendor information and performance metrics
 
-### Technical Requirements
+### 🖥️Technical Requirements
 
 - **Platform**: Stacks Blockchain
 - **Language**: Clarity Smart Contract Language
