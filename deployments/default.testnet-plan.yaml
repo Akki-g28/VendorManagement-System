@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: VendorManagementSystem
+            expected-sender: ST1VE91Q9XQWN3P4ERRX4C1191YWXRX4R0PD1WR7Y
+            cost: 61010
+            path: "contracts\\VendorManagementSystem.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"

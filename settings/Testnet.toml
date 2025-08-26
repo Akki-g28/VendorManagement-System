@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "excuse ramp denial fresh grain guard fault clay trouble amateur junior thumb camera limit bicycle breeze clever custom together army provide ecology broken lift"
